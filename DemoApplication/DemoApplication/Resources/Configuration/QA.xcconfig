@@ -1,0 +1,12 @@
+//
+//  QA.xcconfig
+//  DemoApplication
+//
+//  Created by Nitin Bhatt on 27/01/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// QA.xcconfig
+BASE_URL = gorest.co.in/public/v2

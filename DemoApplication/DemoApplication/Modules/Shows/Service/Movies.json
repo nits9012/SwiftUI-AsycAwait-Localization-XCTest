@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "title": "Moana 2",
+        "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b3/fc/7a/b3fc7a27-ca15-1bd6-1dd1-6774e4651eb2/DIS_MOANA_2_TH_ITUNES_ARTWORK_WW_ARTWORK_EN_2000x3000_4NOAGO00000346.lsr/400x400bb.png",
+        "trailerUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/ee/10/57/ee105713-3380-9bc4-a70d-324583fdd0cc/mzvf_9018770441764267861.640x426.h264lc.U.p.m4v"
+    },{
+        "id" : 2,
+        "title": "Den of Thieves 2: Pantera",
+        "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/13/7c/f3137ca4-e7e5-1b08-1b16-f9de508af655/9382845260114.jpg/400x400bb.png",
+        "trailerUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/48/80/9f/48809f42-e858-ece6-b8fd-45e251923225/mzvf_16866335083988588932.640x352.h264lc.U.p.m4v"
+    },{
+        "id" : 3,
+        "title": "Babygirl",
+        "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/3b/b5/bf/3bb5bff8-061e-c6d8-1443-e840694f5b19/A24-Babygirl-ATV-2000x3000-PosterArt.jpg/400x400bb.png",
+        "trailerUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/3e/93/66/3e93667a-d578-bbf7-4a57-9054f132c30a/mzvf_6170326396182644832.640x426.h264lc.U.p.m4v"
+    },{
+        "id" : 4,
+        "title": "Sonic The Hedgehog 3",
+        "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/83/b0/4a/83b04a7a-75e1-2f49-af28-fc8c6937f6da/Sonic3_EN_2000x3000.png/400x400bb.png",
+        "trailerUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/6e/fc/ce/6efcce14-e543-6d6d-3ea0-6fbfd649832f/mzvf_242232375650671103.640x354.h264lc.U.p.m4v"
+    }, {
+        "id" : 5,
+        "title": "Wicked",
+        "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/4d/f9/6d/4df96d37-83de-13bd-0b8b-50edd1ec7930/UNI_WICKED_2024_TH_ITUNES_PREORDER_WW_ARTWORK_EN_2000x3000_4KFR2M000002SY.lsr/400x400bb.png",
+        "trailerUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/bb/fa/41/bbfa4178-be4b-3c50-8afe-2dc881118ecc/mzvf_9321027461594493944.640x354.h264lc.U.p.m4v"
+    }, {
+        "id" : 6,
+        "title": "Nosferatu (2024)",
+        "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/05/d9/a8/05d9a8b7-4082-2ce4-55ed-82627094890f/NOSFERATU_PVOD_LSR_WITH_CAST_2000x3000.lsr/400x400bb.png",
+        "trailerUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/1c/46/a7/1c46a7f4-1d9d-5ddf-0e8b-4c4e54430759/mzvf_11706131322957210767.640x458.h264lc.U.p.m4v"
+    }
+]
