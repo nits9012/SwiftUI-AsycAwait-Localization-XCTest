@@ -1,4 +1,4 @@
 # SwiftUI-AsycAwait-Localization-XCTest
 
 
-<img src="demo_screenshots.png" width="1000" height="500">
+<img src="demo_screenshots.png" width="1000" height="450">
